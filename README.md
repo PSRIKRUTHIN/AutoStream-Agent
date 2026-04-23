@@ -104,7 +104,7 @@ The generated response from the agent is sent back to the user via the WhatsApp 
 
 ---
 
-### 🔹 Step 5: Lead Capture & Storage
+###  Step 5: Lead Capture & Storage
 
 When a high-intent user is detected, the agent collects:
 - Name
@@ -126,7 +126,6 @@ Lightweight platforms like Render or Railway can also be used for quick deployme
 Flow:
 User → WhatsApp → Webhook → Agent → Response → WhatsApp → User
 
-Captured leads can be stored in a database or CRM system.
 ---
 
 ##  Summary
