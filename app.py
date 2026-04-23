@@ -137,7 +137,7 @@ app = graph.compile()
 
 state = init_state()
 
-print("AutoStream LLM + LangGraph Agent 🚀")
+print("AutoStream LLM + LangGraph Agent ")
 
 while True:
     user = input("\nUser: ")
