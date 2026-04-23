@@ -78,7 +78,7 @@ def rag_node(state):
 
 def lead_node(state):
 
-    print("\nAgent: Great! I can help you get started 🚀")
+    print("\nAgent: Great! I can help you get started ")
 
     if not state["name"]:
         state["name"] = input("Agent: What's your name? ")
